@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-eslint-restore-spies",
+  "name": "eslint-restore-spies",
   "version": "0.1.0",
   "description": "An ESLint plugin for those people, who forget to restore their spies after the test run.",
   "keywords": [
